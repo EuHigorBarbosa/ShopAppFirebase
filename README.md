@@ -1,6 +1,8 @@
-# shop
+# Aplicativo de Compras utilizando Autenticação Firebase com Token
 
-A new Flutter project.
+Este projeto foi desenvolvido com o foco em duas coisas:
+a) aprender a integração do aplicativo com o banco de dados Firebase
+b) manipulação de informações inseridas pelo usuario relativo a inserção de produtos para venda, iserção de produtos no carrinho de compras
 
 ## Getting Started
 
